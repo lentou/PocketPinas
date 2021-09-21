@@ -1,5 +1,5 @@
 # PocketPinas
-This page is Under Construction, Links of PCP Sites
+The official repository of PocketPinas. It includes Documentation, Images, Ideas
 | Name | Sites |
 | ---- | ---- |
 | Vote | [VOTING SITE](https://minecraftpocket-servers.com/server/90308/vote/) |
