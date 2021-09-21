@@ -1,5 +1,7 @@
 # PocketPinas
-The official repository of PocketPinas. It includes Documentation, Images, Ideas
+The official repository of PocketPinas. It includes Documentation, Images, Ideas.
+
+Why you forking this trash repository?
 | Name | Sites |
 | ---- | ---- |
 | Vote | [VOTING SITE](https://minecraftpocket-servers.com/server/90308/vote/) |
