@@ -1,6 +1,7 @@
 # PocketPinas
 The official repository of PocketPinas. It includes Documentation, Images, Ideas.
 
+Founded by: Lentou <br>
 2017 - 2022
 Since PocketPinas is now inactive, We will upload our own Files here.
 To Download just click the Button below!
