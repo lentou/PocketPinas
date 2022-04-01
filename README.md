@@ -2,11 +2,11 @@
 The official repository of PocketPinas. It includes Documentation, Images, Ideas.
 
 Founded by: Lentou <br>
-2017 - 2022
-Since PocketPinas is now inactive, We will upload our own Files here.
-To Download just click the Button below!
+2017 - 2022 <br>
+Since PocketPinas is now inactive, We will upload our own Files here. <br>
+To Download just click the Button below! <br>
 
-Public Files: [Download Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Public Files: [Download Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
 Discord: [DISCORD SITE](https://discord.gg/Y7zvgFj)
 
 Public PocketPinas Zip Archive includes:
